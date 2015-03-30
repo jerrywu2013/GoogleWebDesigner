@@ -1,0 +1,28 @@
+<html>
+<!--這個檔案是由 Google Web Designer 自動產生，請勿手動修改。-->
+
+<head></head>
+
+<body>
+  <div data-gwd-node="true" data-gwd-group-def="Group1" data-gwd-group-class="gwd-grp-c4m2" style="display: none;">
+    <style data-gwd-grp-rule="true">
+      [data-gwd-group="Group1"] .gwd-grp-c4m2.gwd-canvas-8msk {
+        position: absolute;
+        width: 90px;
+        height: 90px;
+        -webkit-transform-style: preserve-3d;
+        left: 0px;
+        top: 0px;
+      }
+    </style>
+    <script data-gwd-grp-events="true">
+      []
+    </script>
+    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAC0CAYAAAA9zQYyAAAE20lEQVR4Xu3UMY5cBRRE0emlkJOAE7DAu2FV7MaWcIQjcpYyWAROLVmq8ky98+Pu/v1uXd3H8+fnyYPACIEHoUeWdMb/BAhNhCkChJ6a0zGE5sAUAUJPzekYQnNgigChp+Z0DKE5MEWA0FNzOobQHJgiQOipOR1DaA5MESD01JyOITQHpggQempOxxCaA1MECD01p2MIzYEpAoSemtMxhObAFAFCT83pGEJzYIoAoafmdAyhOTBFgNBTczqG0ByYIkDoqTkdQ2gOTBEg9NScjiE0B6YIEHpqTscQmgNTBAg9NadjCM2BKQKEnprTMYTmwBQBQk/N6RhCc2CKAKGn5nQMoTkwRYDQU3M6htAcmCJA6Kk5HUNoDkwReJVCv3v75unDx09TQ7y0Y37/9een93/9/dL+1lf/z6sU+vF4PP3z5w9fPc4Hvp3Aj3/8+/T8/PztP/Cdvkno7wT+pb+W0MWFFDoPm9B5xl/eQOg8bELnGRO6yJjQRdgKnYdN6DxjhS4yJnQRtkLnYRM6z1ihi4wJXYSt0HnYhM4zVugiY0IXYSt0Hjah84wVusiY0EXYCp2HTeg8Y4UuMiZ0EbZC52ETOs9YoYuMCV2ErdB52ITOM1boImNCF2ErdB42ofOMFbrImNBF2Aqdh03oPGOFLjImdBG2QudhEzrPWKGLjAldhK3QediEzjNW6CJjQhdhK3QeNqHzjBW6yJjQRdgKnYdN6DxjhS4yJnQRtkLnYRM6z1ihi4wJXYSt0HnYhM4zVugiY0IXYSt0Hjah84wVusiY0EXYCp2HTeg8Y4UuMiZ0EbZC52ETOs9YoYuMCV2ErdB52ITOM1boImNCF2ErdB42ofOMFbrImNBF2Aqdh03oPGOFLjImdBG2QudhEzrPWKGLjAldhK3QediEzjNW6CJjQhdhK3QeNqHzjBW6yJjQRdgKnYdN6DxjhS4yJnQRtkLnYRM6z1ihi4wJXYSt0HnYhM4zVugiY0IXYSt0Hjah84wVusiY0EXYCp2HTeg8Y4UuMiZ0EbZC52ETOs9YoYuMCV2ErdB52ITOM1boImNCF2ErdB42ofOMFbrImNBF2Aqdh03oPGOFLjImdBG2QudhEzrPWKGLjAldhK3QediEzjNW6CJjQhdhK3QeNqHzjBW6yJjQRdgKnYdN6DxjhS4yJnQRtkLnYRM6z1ihi4wJXYSt0HnYhM4zVugiY0IXYSt0Hjah84wVusiY0EXYCp2HTeg8Y4UuMiZ0EbZC52ETOs/4yxvevX3z9OHjp+Ib773qt19+epWMH8+fn3tzuXiVAKFXlz16F6GPDr96NqFXlz16F6GPDr96NqFXlz16F6GPDr96NqFXlz16F6GPDr96NqFXlz16F6GPDr96NqFXlz16F6GPDr96NqFXlz16F6GPDr96NqFXlz16F6GPDr96NqFXlz16F6GPDr96NqFXlz16F6GPDr96NqFXlz16F6GPDr96NqFXlz16F6GPDr96NqFXlz16F6GPDr96NqFXlz16F6GPDr96NqFXlz16F6GPDr96NqFXlz16F6GPDr96NqFXlz16F6GPDr96NqFXlz16F6GPDr96NqFXlz16F6GPDr96NqFXlz16F6GPDr96NqFXlz16F6GPDr96NqFXlz16F6GPDr969n8Xaeohz8tadwAAAABJRU5ErkJggg=="
+    data-gwd-grp-preview-image="true">
+    <canvas is="gwd-rectangle" width="90" height="90" data-gwd-node="true" class="gwd-canvas-8msk gwd-grp-c4m2" x-off="0" y-off="0" stroke-width="1" stroke-color="[0,0,0,1]" fill-color="[0.8313725490196079,0.6078431372549019,0.12941176470588237,1]" tl-radius="0"
+    tr-radius="0" bl-radius="0" br-radius="0" stroke-style="Solid"></canvas>
+  </div>
+</body>
+
+</html>
