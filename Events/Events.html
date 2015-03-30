@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head data-gwd-animation-mode="quickMode">
+  <title>Events</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="generator" content="Google Web Designer 1.2.1.0121">
+  <style type="text/css">
+    html, body {
+      width: 100%;
+      height: 100%;
+      margin: 0px;
+    }
+    body {
+      -webkit-transform: perspective(1400px) matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+      -webkit-transform-style: preserve-3d;
+      background-color: transparent;
+    }
+    .gwd-div-xe7y {
+      position: absolute;
+      width: 337px;
+      height: 279px;
+      left: 133px;
+      top: 65px;
+      background-image: none;
+      background-color: rgb(0, 28, 204);
+    }
+    .gwd-div-el6h {
+      position: absolute;
+      -webkit-transform-style: preserve-3d;
+      width: 361px;
+      height: 361px;
+      -webkit-transform-origin: 180.5px 180.5px 0px;
+      -webkit-transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+      left: 514px;
+      top: 31px;
+      background-image: none;
+      background-color: rgb(218, 255, 93);
+    }
+  </style>
+  <script type="text/javascript" gwd-events="support" src="gwd-events-support.1.0.js"></script>
+  <script type="text/javascript" gwd-events="handlers">
+    gwd.hello = function(event) {
+      alert('hello');
+    };
+    gwd.auto_Test2Click = function(event) {
+      // GWD Predefined Function
+      gwd.actions.events.setInlineStyle('test2', 'transition: all 2s linear; width: 200px; opacity: 0.2; ');
+    };
+  </script>
+  <script type="text/javascript" gwd-events="registration">
+    // Google Web Designer 中處理事件的支援程式碼
+     // 這個指令碼區塊是自動產生的，請勿編輯！
+    gwd.actions.events.registerEventHandlers = function(event) {
+      gwd.actions.events.addHandler('test', 'click', gwd.hello, false);
+      gwd.actions.events.addHandler('test2', 'click', gwd.auto_Test2Click, false);
+    };
+    gwd.actions.events.deregisterEventHandlers = function(event) {
+      gwd.actions.events.removeHandler('test', 'click', gwd.hello, false);
+      gwd.actions.events.removeHandler('test2', 'click', gwd.auto_Test2Click, false);
+    };
+    document.addEventListener("DOMContentLoaded", gwd.actions.events.registerEventHandlers);
+    document.addEventListener("unload", gwd.actions.events.deregisterEventHandlers);
+  </script>
+</head>
+
+<body>
+  <div class="gwd-div-xe7y" id="test"></div>
+  <div class="gwd-div-el6h" id="test2"></div>
+</body>
+
+</html>
